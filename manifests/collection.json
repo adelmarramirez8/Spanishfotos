@@ -9,9 +9,5 @@
     "@type" : "sc:Manifest",
     "@id" : "https://adelmarramirez8.github.io/Spanishfotos/manifests/manifest.json",
     "label" : "Spanish 150 try"
-  }, {
-    "@type" : "sc:Manifest",
-    "@id" : "https://adelmarramirez8.github.io/Spanishfotos/manifests/ImmigrationBorder",
-    "label" : "[Click to edit label]"
   } ]
 }
