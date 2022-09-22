@@ -2,14 +2,14 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://adelmarramirez8.github.io/Spanishfotos/manifests/ImmigrationBorder",
   "@type" : "sc:Manifest",
-  "label" : "[Click to edit label]",
+  "label" : "BorderCrossings",
   "metadata" : [ ],
   "description" : [ {
     "@value" : "[Click to edit description]",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "[Click to edit attribution]",
+  "attribution" : "DavidPeinadoPexels",
   "sequences" : [ {
     "@id" : "http://3deba4e2-5a07-4d72-8b94-27257bebc490",
     "@type" : "sc:Sequence",
