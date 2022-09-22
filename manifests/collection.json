@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://adelmarramirez8.github.io/Spanishfotos/manifests/BorderCrossing",
     "label" : "BorderCrossing"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://adelmarramirez8.github.io/Spanishfotos/manifests/Border.json",
+    "label" : "BorderCrossing"
   } ]
 }
