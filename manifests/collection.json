@@ -13,9 +13,5 @@
     "@type" : "sc:Manifest",
     "@id" : "https://adelmarramirez8.github.io/Spanishfotos/manifests/Border.json",
     "label" : "BorderCrossing"
-  }, {
-    "@type" : "sc:Manifest",
-    "@id" : "https://adelmarramirez8.github.io/Spanishfotos/manifests/mujerespolilla.json",
-    "label" : "Mujeres Polilla"
   } ]
 }
