@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 1440,
+    "id" : "https://adelmarramirez8.github.io/Spanishfotos/images/mujerespolilla1/canvas/",
+    "label" : {
+      "none" : [ "mujerespolilla1" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://adelmarramirez8.github.io/Spanishfotos/images/mujerespolilla1/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://adelmarramirez8.github.io/Spanishfotos/images/mujerespolilla1/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 45,
+              "height" : 45
+            }, {
+              "width" : 90,
+              "height" : 90
+            }, {
+              "width" : 180,
+              "height" : 180
+            }, {
+              "width" : 360,
+              "height" : 360
+            }, {
+              "width" : 720,
+              "height" : 720
+            }, {
+              "width" : 1440,
+              "height" : 1440
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1440,
+            "@id" : "https://adelmarramirez8.github.io/Spanishfotos/images/mujerespolilla1",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1440
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1440,
+          "id" : "https://adelmarramirez8.github.io/Spanishfotos/images/mujerespolilla1/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1440
+        },
+        "target" : "https://adelmarramirez8.github.io/Spanishfotos/images/mujerespolilla1/canvas/"
+      } ]
+    } ],
+    "height" : 1440
+  }, {
     "width" : 4288,
     "id" : "https://adelmarramirez8.github.io/Spanishfotos/images/pexels-david-peinado-7623291/canvas/",
     "label" : {
