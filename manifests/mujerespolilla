@@ -2,7 +2,7 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://adelmarramirez8.github.io/Spanishfotos/manifests/mujerespolilla",
   "@type" : "sc:Manifest",
-  "label" : "[MujeresPolilla]",
+  "label" : "[Click to edit label]",
   "metadata" : [ ],
   "description" : [ {
     "@value" : "[Click to edit description]",
