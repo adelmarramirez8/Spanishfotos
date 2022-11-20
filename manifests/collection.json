@@ -17,9 +17,5 @@
     "@type" : "sc:Manifest",
     "@id" : "https://adelmarramirez8.github.io/Spanishfotos/manifests/mujerespolilla",
     "label" : "Mujeres Polilla"
-  }, {
-    "@type" : "sc:Manifest",
-    "@id" : "https://adelmarramirez8.github.io/Spanishfotos/manifests/migrantesvenezolanos",
-    "label" : "Migrantes venezolanos"
   } ]
 }
