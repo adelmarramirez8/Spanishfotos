@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://adelmarramirez8.github.io/Spanishfotos/manifests/MariselaEscobedo",
+  "@type" : "sc:Manifest",
+  "label" : "Marisela",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Flyer Marisela Escobedo activista",
+    "@language" : "español"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Hugo Valencia",
+  "sequences" : [ {
+    "@id" : "http://ed1dc07b-7b10-43ae-bcde-d2a3069747fe",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://b0368ca1-b94d-461d-8489-defe54a93b25",
+      "@type" : "sc:Canvas",
+      "label" : "Marisela",
+      "height" : "",
+      "width" : "",
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://fb58c3b0-0067-41cc-b7e8-4ad1bedefdd4",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://adelmarramirez8.github.io/Spanishfotos/images/marisela-escobedo/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://adelmarramirez8.github.io/Spanishfotos/images/marisela-escobedo",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 630,
+          "width" : 1080
+        },
+        "on" : "http://b0368ca1-b94d-461d-8489-defe54a93b25"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
