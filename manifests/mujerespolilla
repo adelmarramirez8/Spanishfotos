@@ -17,7 +17,7 @@
     "canvases" : [ {
       "@id" : "http://0b41e916-6c1f-4cb1-9787-8ab545fad04e",
       "@type" : "sc:Canvas",
-      "label" : "Empty canvas",
+      "label" : "Mujeres Polilla",
       "height" : 2000,
       "width" : 4000,
       "images" : [ {
