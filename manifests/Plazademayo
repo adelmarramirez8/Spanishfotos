@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://adelmarramirez8.github.io/Spanishfotos/manifests/Plazademayo",
+  "@type" : "sc:Manifest",
+  "label" : "Argentina, Terrorismo de estado",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Policías contra madres en Plaza de Mayo",
+    "@language" : "español"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "https://www.academia.edu/20906050/Fotograf%C3%ADa_y_violencia_los_l%C3%ADmites_de_la_representaci%C3%B3n",
+  "sequences" : [ {
+    "@id" : "http://b75efe4f-3e5c-4ae7-84da-6f325eb3f7b9",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://758e9f23-c159-40a8-9af8-9ed91d2a1936",
+      "@type" : "sc:Canvas",
+      "label" : "Plaza de Mayo",
+      "height" : "",
+      "width" : "",
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8be0902d-949f-42c2-ac2e-e2559cf7663f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://adelmarramirez8.github.io/Spanishfotos/images/Plazademayo/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://adelmarramirez8.github.io/Spanishfotos/images/Plazademayo",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1368,
+          "width" : 1969
+        },
+        "on" : "http://758e9f23-c159-40a8-9af8-9ed91d2a1936"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
