@@ -29,5 +29,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://adelmarramirez8.github.io/Spanishfotos/manifests/migrantesfamilias2",
     "label" : "Migrantesvenezolanos"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://adelmarramirez8.github.io/Spanishfotos/manifests/Plazademayo",
+    "label" : "Argentina, Terrorismo de estado"
   } ]
 }
