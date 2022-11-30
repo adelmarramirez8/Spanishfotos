@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://adelmarramirez8.github.io/Spanishfotos/manifests/espectacularjuarez",
+  "@type" : "sc:Manifest",
+  "label" : "espectacular",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "anuncio en la carretera",
+    "@language" : "español"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Mayra Martell",
+  "sequences" : [ {
+    "@id" : "http://b3cf12a1-4bdf-404a-bd04-e2b34d1e153d",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://f82e2d58-00ba-448e-9282-605e7fe70852",
+      "@type" : "sc:Canvas",
+      "label" : "espectacular",
+      "height" : "",
+      "width" : "",
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3aa9dcb4-d531-4362-a985-ef65acb318f2",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://adelmarramirez8.github.io/Spanishfotos/images/espectacularjuarez/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://adelmarramirez8.github.io/Spanishfotos/images/espectacularjuarez",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 667,
+          "width" : 1000
+        },
+        "on" : "http://f82e2d58-00ba-448e-9282-605e7fe70852"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
