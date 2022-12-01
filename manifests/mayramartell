@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://adelmarramirez8.github.io/Spanishfotos/manifests/mayramartell",
+  "@type" : "sc:Manifest",
+  "label" : "habitación feminicidio",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "fotografía de Mayra Martell",
+    "@language" : "español"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "https://mayramartell.com/wp-content/uploads/2019/03/19-1.jpg",
+  "sequences" : [ {
+    "@id" : "http://42ef13b3-5826-447e-97d9-cf9c73e28c80",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://9ad2e721-e43e-4b88-88de-33efe98f2e59",
+      "@type" : "sc:Canvas",
+      "label" : "mayramartell",
+      "height" : "",
+      "width" : "",
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://af132569-2dac-4d05-bfb7-9cd4dd1a7bc6",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://adelmarramirez8.github.io/Spanishfotos/images/MayraMartell/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://adelmarramirez8.github.io/Spanishfotos/images/MayraMartell",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1020,
+          "width" : 1500
+        },
+        "on" : "http://9ad2e721-e43e-4b88-88de-33efe98f2e59"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
