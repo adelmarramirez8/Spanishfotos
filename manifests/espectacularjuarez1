@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://adelmarramirez8.github.io/Spanishfotos/manifests/espectacularjuarez1",
+  "@type" : "sc:Manifest",
+  "label" : "Espectacular",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "En ciudad Juarez",
+    "@language" : "español"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Mayra Martell",
+  "sequences" : [ {
+    "@id" : "http://a3d5268f-16bc-4785-9c95-864c57548b5c",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://1cceebbc-5069-4893-8f4f-c946bf787e4c",
+      "@type" : "sc:Canvas",
+      "label" : "espectacular",
+      "height" : "",
+      "width" : "",
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3edc4f0f-3e0d-4be1-95ab-997fe71fa32e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://adelmarramirez8.github.io/Spanishfotos/images/espectacularjuarez/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://adelmarramirez8.github.io/Spanishfotos/images/espectacularjuarez",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 667,
+          "width" : 1000
+        },
+        "on" : "http://1cceebbc-5069-4893-8f4f-c946bf787e4c"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
