@@ -5,7 +5,7 @@
   "label" : "Espectacular en Juárez",
   "metadata" : [ ],
   "description" : [ {
-    "@value" : "espectacular en cd. juarez",
+    "@value" : "paged",
     "@language" : "español"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
@@ -14,15 +14,15 @@
     "@id" : "http://c5d8bfe3-9684-4ec0-b4f2-441f2fe90d12",
     "@type" : "sc:Sequence",
     "label" : [ {
-      "@value" : "Normal Sequence",
+      "@value" : "paged",
       "@language" : "en"
     } ],
     "canvases" : [ {
       "@id" : "http://1fafcda3-677a-4058-8147-da39c0f1505f",
       "@type" : "sc:Canvas",
-      "label" : "Empty canvas",
-      "height" : "2500",
-      "width" : "3000",
+      "label" : "espectacular",
+      "height" : "1950",
+      "width" : "1725",
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://ea68e35b-4cf0-4bf7-bce8-1aed0e79d4af",
@@ -37,8 +37,8 @@
             "@id" : "https://iiif.archivelab.org/iiif/espectacularjuarez",
             "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
           },
-          "height" : 2500,
-          "width" : 3000
+          "height" : 1950,
+          "width" : 1725
         },
         "on" : "http://1fafcda3-677a-4058-8147-da39c0f1505f"
       } ],
