@@ -37,5 +37,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://adelmarramirez8.github.io/Spanishfotos/manifests/espectacularjuarez",
     "label" : "espectacular"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://adelmarramirez8.github.io/Spanishfotos/manifests/espectacularjuarez1",
+    "label" : "Espectacular"
   } ]
 }
