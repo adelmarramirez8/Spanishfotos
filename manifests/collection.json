@@ -35,10 +35,6 @@
     "label" : "Argentina, Terrorismo de estado"
   }, {
     "@type" : "sc:Manifest",
-    "@id" : "https://adelmarramirez8.github.io/Spanishfotos/manifests/espectacularjuarez",
-    "label" : "espectacular"
-  }, {
-    "@type" : "sc:Manifest",
     "@id" : "https://adelmarramirez8.github.io/Spanishfotos/manifests/mayramartell",
     "label" : "habitación feminicidio"
   }, {
