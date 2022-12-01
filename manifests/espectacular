@@ -37,8 +37,8 @@
             "@id" : "https://iiif.archivelab.org/iiif/espectacularjuarez",
             "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
           },
-          "height" : 667,
-          "width" : 1000
+          "height" : 2500,
+          "width" : 3000
         },
         "on" : "http://1fafcda3-677a-4058-8147-da39c0f1505f"
       } ],
