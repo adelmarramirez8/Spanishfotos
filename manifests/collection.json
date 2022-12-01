@@ -41,5 +41,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://adelmarramirez8.github.io/Spanishfotos/manifests/mayramartell",
     "label" : "habitación feminicidio"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://adelmarramirez8.github.io/Spanishfotos/manifests/espectacular",
+    "label" : "Espectacular en Juárez"
   } ]
 }
