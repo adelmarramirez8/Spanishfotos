@@ -6,6 +6,64 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 1920,
+    "id" : "https://adelmarramirez8.github.io/Spanishfotos/images/cdjuarez/canvas/",
+    "label" : {
+      "none" : [ "cdjuarez" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://adelmarramirez8.github.io/Spanishfotos/images/cdjuarez/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://adelmarramirez8.github.io/Spanishfotos/images/cdjuarez/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 60,
+              "height" : 48
+            }, {
+              "width" : 120,
+              "height" : 95
+            }, {
+              "width" : 240,
+              "height" : 190
+            }, {
+              "width" : 480,
+              "height" : 380
+            }, {
+              "width" : 960,
+              "height" : 760
+            }, {
+              "width" : 1920,
+              "height" : 1519
+            } ],
+            "profile" : "level0",
+            "width" : 1920,
+            "id" : "https://adelmarramirez8.github.io/Spanishfotos/images/cdjuarez",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1519
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1920,
+          "id" : "https://adelmarramirez8.github.io/Spanishfotos/images/cdjuarez/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 1519
+        },
+        "target" : "https://adelmarramirez8.github.io/Spanishfotos/images/cdjuarez/canvas/"
+      } ]
+    } ],
+    "height" : 1519
+  }, {
     "width" : 1000,
     "id" : "https://adelmarramirez8.github.io/Spanishfotos/images/espectacularjuarez/canvas/",
     "label" : {
