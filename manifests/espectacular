@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://adelmarramirez8.github.io/Spanishfotos/manifests/espectacular",
+  "@type" : "sc:Manifest",
+  "label" : "Espectacular en Juárez",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "espectacular en cd. juarez",
+    "@language" : "español"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Mayra Martell",
+  "sequences" : [ {
+    "@id" : "http://c5d8bfe3-9684-4ec0-b4f2-441f2fe90d12",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://1fafcda3-677a-4058-8147-da39c0f1505f",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : "2500",
+      "width" : "3000",
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ea68e35b-4cf0-4bf7-bce8-1aed0e79d4af",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/espectacularjuarez/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/espectacularjuarez",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 667,
+          "width" : 1000
+        },
+        "on" : "http://1fafcda3-677a-4058-8147-da39c0f1505f"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
