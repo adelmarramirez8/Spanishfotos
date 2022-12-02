@@ -41,5 +41,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://adelmarramirez8.github.io/Spanishfotos/manifests/espectacular",
     "label" : "Espectacular en Juárez"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://adelmarramirez8.github.io/Spanishfotos/manifests/consignafeminista",
+    "label" : "consigna"
   } ]
 }
