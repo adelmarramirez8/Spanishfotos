@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 76,
+    "height" : 50
+  }, {
+    "width" : 152,
+    "height" : 100
+  }, {
+    "width" : 303,
+    "height" : 199
+  }, {
+    "width" : 606,
+    "height" : 397
+  }, {
+    "width" : 1212,
+    "height" : 793
+  }, {
+    "width" : 2423,
+    "height" : 1586
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2423,
+  "@id" : "https://adelmarramirez8.github.io/Spanishfotos/images/consignafeminista",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1586
+}
