@@ -45,5 +45,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://adelmarramirez8.github.io/Spanishfotos/manifests/consignafeminista",
     "label" : "consigna"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://adelmarramirez8.github.io/Spanishfotos/manifests/conferenciagenocidio",
+    "label" : "photo"
   } ]
 }
