@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 2250,
+    "id" : "https://adelmarramirez8.github.io/Spanishfotos/images/ninofrontera/canvas/",
+    "label" : {
+      "none" : [ "ninofrontera" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://adelmarramirez8.github.io/Spanishfotos/images/ninofrontera/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://adelmarramirez8.github.io/Spanishfotos/images/ninofrontera/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 71,
+              "height" : 47
+            }, {
+              "width" : 141,
+              "height" : 94
+            }, {
+              "width" : 282,
+              "height" : 188
+            }, {
+              "width" : 563,
+              "height" : 375
+            }, {
+              "width" : 1125,
+              "height" : 750
+            }, {
+              "width" : 2250,
+              "height" : 1500
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2250,
+            "@id" : "https://adelmarramirez8.github.io/Spanishfotos/images/ninofrontera",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1500
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2250,
+          "id" : "https://adelmarramirez8.github.io/Spanishfotos/images/ninofrontera/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1500
+        },
+        "target" : "https://adelmarramirez8.github.io/Spanishfotos/images/ninofrontera/canvas/"
+      } ]
+    } ],
+    "height" : 1500
+  }, {
     "width" : 2560,
     "id" : "https://adelmarramirez8.github.io/Spanishfotos/images/Conferenciagenocidio/canvas/",
     "label" : {
