@@ -49,5 +49,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://adelmarramirez8.github.io/Spanishfotos/manifests/conferenciagenocidio",
     "label" : "photo"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://adelmarramirez8.github.io/Spanishfotos/manifests/seedsharing2.json",
+    "label" : "South Central Farm"
   } ]
 }
