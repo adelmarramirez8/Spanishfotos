@@ -1,0 +1,75 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://adelmarramirez8.github.io/Spanishfotos/manifests/seedsharing2.json",
+  "@type" : "sc:Manifest",
+  "label" : "South Central Farm",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Farmers sharing seeds and garden plants",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "",
+  "sequences" : [ {
+    "@id" : "http://10c4b9d8-6942-4a87-8fbd-21cb3b3fc007",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://ca247d3f-f0b6-4ffe-ba8d-14efe0245855",
+      "@type" : "sc:Canvas",
+      "label" : "Seed Sharing",
+      "height" : "1000",
+      "width" : "1200",
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b11e5fbc-7a44-4b70-a14c-98892b62f9db",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/community_202305/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/community_202305",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2448,
+          "width" : 3264
+        },
+        "on" : "http://ca247d3f-f0b6-4ffe-ba8d-14efe0245855"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://8f98d0c8-b14d-4cdd-bcb0-f29a22190909",
+      "@type" : "sc:Canvas",
+      "label" : "Garden Plants",
+      "height" : "1000",
+      "width" : "1200",
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://9de10468-03df-4c07-82a5-133921f4f675",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/gardenplants/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/gardenplants",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2448,
+          "width" : 3264
+        },
+        "on" : "http://8f98d0c8-b14d-4cdd-bcb0-f29a22190909"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
