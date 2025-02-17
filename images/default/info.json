@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 33,
+    "height" : 55
+  }, {
+    "width" : 66,
+    "height" : 110
+  }, {
+    "width" : 131,
+    "height" : 220
+  }, {
+    "width" : 261,
+    "height" : 439
+  }, {
+    "width" : 521,
+    "height" : 878
+  }, {
+    "width" : 1042,
+    "height" : 1756
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1042,
+  "@id" : "https://adelmarramirez8.github.io/Spanishfotos/images/default",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1756
+}
